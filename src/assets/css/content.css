@@ -1,0 +1,15 @@
+div{
+    height:100vh;
+}
+.content{
+    margin-left:150px;
+}
+.content h3{
+    color:white;
+}
+@media screen and (min-width: 769px) {
+    .content h3{
+        padding-top:100px;
+        padding-bottom: 50px;
+    }
+}
